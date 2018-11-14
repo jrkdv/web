@@ -1,0 +1,7 @@
+{
+  "syntax": "scss",
+  "extends": ["stylelint-config-recommended-scss", "stylelint-config-rational-order"],
+  "rules": {
+    "no-empty-source": null
+  }
+}
