@@ -1,4 +1,9 @@
 {
-  "baseProjectsFolder": "demo/",
-  "projects": []
+  "projects": [
+    {
+      "name": "Monstroid2 - многоцелевой шаблон сайта",
+      "keywords": ["pug", "scss"],
+      "folder": "62267"
+    }
+  ]
 }

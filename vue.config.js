@@ -1,8 +1,8 @@
 module.exports = {
   baseUrl: process.env.NODE_ENV === 'production'
-    ? '/web/'
+    ? '/web/app/'
     : '/',
-  outputDir: 'docs',
+  outputDir: 'app',
   devServer: {
     https: true,
   },
